@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Springboot_HelloWeb/01_Springboot_HelloWeb.iml" filepath="$PROJECT_DIR$/01_Springboot_HelloWeb/01_Springboot_HelloWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02SpringBoot-Config/02SpringBoot-Config.iml" filepath="$PROJECT_DIR$/02SpringBoot-Config/02SpringBoot-Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_SpringBoot-Mybatis/03_SpringBoot-Mybatis.iml" filepath="$PROJECT_DIR$/03_SpringBoot-Mybatis/03_SpringBoot-Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_SpringBoot-jdbcTemplate/04_SpringBoot-jdbcTemplate.iml" filepath="$PROJECT_DIR$/04_SpringBoot-jdbcTemplate/04_SpringBoot-jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_SpringBoot-Aop/05_SpringBoot-Aop.iml" filepath="$PROJECT_DIR$/05_SpringBoot-Aop/05_SpringBoot-Aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springall.iml" filepath="$PROJECT_DIR$/springall.iml" />
+    </modules>
+  </component>
+</project>
