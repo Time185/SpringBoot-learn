@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/03_SpringBoot-Mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04_SpringBoot-jdbcTemplate" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05_SpringBoot-Aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_SpringBoot-Thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_SpringBoot-Cache" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/03_SpringBoot-Mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/04_SpringBoot-jdbcTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/05_SpringBoot-Aop/pom.xml" />
+        <option value="$PROJECT_DIR$/06_SpringBoot-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/07_SpringBoot-Cache/pom.xml" />
       </list>
     </option>
   </component>

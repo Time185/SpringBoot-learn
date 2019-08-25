@@ -1,7 +1,9 @@
 package time.SpringBootMybatis.mapper;
 
+import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.Update;
 import time.SpringBootMybatis.entity.User;
 
 /**
@@ -14,4 +16,8 @@ import time.SpringBootMybatis.entity.User;
 public interface UserMapper {
     @Select("select * from user where uid = #{uid}")
     User getUser(int uid);
+    @Update("update user set name = #{name}, age = #{age} where uid = #{uid}")
+    void updateUser(User user);
+    @Insert("insert into user(name,age) values(#{name},#{age})")
+    void insertUser(User user);
 }
