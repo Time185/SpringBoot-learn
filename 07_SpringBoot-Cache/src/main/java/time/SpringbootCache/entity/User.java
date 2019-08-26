@@ -1,10 +1,12 @@
 package time.SpringbootCache.entity;
 
+import java.io.Serializable;
+
 /**
  * @author Time
  * @created 2019/8/22
  */
-public class User {
+public class User implements Serializable {
     private int uid;
     private String name;
     private int age;

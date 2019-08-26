@@ -3,3 +3,7 @@ spring:
     url: jdbc:mysql://localhost:3306/mybatis?userUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
     username: root
     password: Lei1995
+  redis:
+    host: 192.168.17.130
+
+debug: true
