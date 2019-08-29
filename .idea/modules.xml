@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/06_SpringBoot-Thymeleaf/06_SpringBoot-Thymeleaf.iml" filepath="$PROJECT_DIR$/06_SpringBoot-Thymeleaf/06_SpringBoot-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_SpringBoot-Cache/07_SpringBoot-Cache.iml" filepath="$PROJECT_DIR$/07_SpringBoot-Cache/07_SpringBoot-Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_SpringBoot-RabbitMQ/08_SpringBoot-RabbitMQ.iml" filepath="$PROJECT_DIR$/08_SpringBoot-RabbitMQ/08_SpringBoot-RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_SpringBoot-Elasticsearch/09_SpringBoot-Elasticsearch.iml" filepath="$PROJECT_DIR$/09_SpringBoot-Elasticsearch/09_SpringBoot-Elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/springall.iml" filepath="$PROJECT_DIR$/springall.iml" />
     </modules>
   </component>

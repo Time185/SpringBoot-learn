@@ -15,6 +15,7 @@
         <module name="04_SpringBoot-jdbcTemplate" />
         <module name="07_SpringBoot-Cache" />
         <module name="08_SpringBoot-RabbitMQ" />
+        <module name="09_SpringBoot-Elasticsearch" />
         <module name="01_Springboot_HelloWeb" />
       </profile>
     </annotationProcessing>
@@ -27,6 +28,7 @@
       <module name="06_SpringBoot-Thymeleaf" target="1.8" />
       <module name="07_SpringBoot-Cache" target="1.8" />
       <module name="08_SpringBoot-RabbitMQ" target="1.8" />
+      <module name="09_SpringBoot-Elasticsearch" target="1.8" />
       <module name="springall" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -40,6 +42,7 @@
       <module name="06_SpringBoot-Thymeleaf" options="-parameters" />
       <module name="07_SpringBoot-Cache" options="-parameters" />
       <module name="08_SpringBoot-RabbitMQ" options="-parameters" />
+      <module name="09_SpringBoot-Elasticsearch" options="-parameters" />
       <module name="springall" options="-parameters" />
     </option>
   </component>
